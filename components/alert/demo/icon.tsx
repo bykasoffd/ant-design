@@ -26,7 +26,7 @@ const App: React.FC = () => (
     />
     <br />
     <Alert
-      title="Warning"
+      title="Привет"
       description="This is a warning notice about copywriting."
       type="warning"
       showIcon
